@@ -1,3 +1,28 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "1",
+      "description": "Abstract technology background",
+      "imageUrl": "https://images.unsplash.com/photo-1568952433726-3896e3881c65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxhYnN0cmFjdCUyMHRlY2hub2xvZ3l8ZW58MHx8fHwxNzYxNzE0MjUzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract technology"
+    },
+    {
+      "id": "2",
+      "description": "AI and robotics concept art",
+      "imageUrl": "https://images.unsplash.com/photo-1699602048893-c9773a898bc4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxyb2JvdGljcyUyMGFpfGVufDB8fHx8MTc2MTc3ODg0NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "robotics ai"
+    },
+    {
+      "id": "3",
+      "description": "Overhead view of a kitchen with cooking ingredients",
+      "imageUrl": "https://images.unsplash.com/photo-1556910638-6cdac31d44dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8a2l0Y2hlbiUyMGNvb2tpbmd8ZW58MHx8fHwxNzYxNzcxMDQyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "kitchen cooking"
+    },
+    {
+      "id": "4",
+      "description": "Futuristic quantum computer visualization",
+      "imageUrl": "https://images.unsplash.com/photo-1617839625591-e5a789593135?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxxdWFudHVtJTIwY29tcHV0ZXJ8ZW58MHx8fHwxNzYxNzcyNTczfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "quantum computer"
+    }
+  ]
 }
