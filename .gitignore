@@ -39,5 +39,6 @@ pnpm-debug.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# idx
-.idx
+.idx*
+
+.env*
