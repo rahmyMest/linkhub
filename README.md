@@ -32,20 +32,31 @@ Make sure you have [Node.js](https://nodejs.org/) (version 18 or higher) and npm
 
 ### Installation
 
-1. Clone the repository:
-   ```bash
-   git clone <your-repository-url>
-   ```
+1.  Clone the repository:
+    ```bash
+    git clone <your-repository-url>
+    ```
 
-2. Navigate to the project directory:
-   ```bash
-   cd <project-directory>
-   ```
+2.  Navigate to the project directory:
+    ```bash
+    cd <project-directory>
+    ```
 
-3. Install the dependencies:
-   ```bash
-   npm install
-   ```
+3.  Install the dependencies:
+    ```bash
+    npm install
+    ```
+
+### Environment Setup
+
+The AI features in this project are powered by the Google Gemini API. To run the application locally, you'll need to provide an API key.
+
+1.  Obtain a Gemini API key from [Google AI Studio](https://aistudio.google.com/app/apikey).
+2.  Create a file named `.env` in the root of the project.
+3.  Add your API key to the `.env` file like this:
+    ```
+    GEMINI_API_KEY=your_api_key_here
+    ```
 
 ### Running the Application
 
